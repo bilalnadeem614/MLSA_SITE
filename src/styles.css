@@ -41,7 +41,7 @@ section img.background {
   position: absolute;
   top: 0;
   transform: translate(-50%, 0);
-  width: 100vmax;
+  width: 50vmax;
   z-index: -1;
 }
 
