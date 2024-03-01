@@ -22,24 +22,23 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
+  // {
+  //   title: "10 Things To Know About Azure Static Web Apps 🎉",
+  //   description:
+  //     "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+  //   url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+  // },
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Web Contribution",
+    description: "Contributed to a open-source project where I created a Contact-Us form",
+    url: "https://github.com/bilalnadeem614/CodySnippets-Hacktoberfest-2023/tree/master",
   },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
+  // {
+  //   title: "My Resume Site",
+  //   description:
+  //     "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+  //   url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+  // },
   {
     title: "GitHub Codespaces and github.dev",
     description:
