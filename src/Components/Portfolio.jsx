@@ -10,7 +10,6 @@
 
 import React from "react";
 
-
 import image from "../images/workDesk.jpg";
 
 const imageAltText = "desktop with books and laptop";
